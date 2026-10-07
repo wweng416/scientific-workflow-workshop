@@ -1,4 +1,5 @@
-Contact: Thomas Johnson thjohnson@microsoft.com
+Contact: New Author: Winnie Weng
+Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub workshop
 
